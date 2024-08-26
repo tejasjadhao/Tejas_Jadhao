@@ -11,7 +11,7 @@ public class newjavamethod {
                 count++;
             }
         }
-        System.out.println("count of numbers divisible by 23 is "+count);
+        System.out.println("count of numbers is "+count);
     }
     public static void main(String[] args){
         newjavamethod obj = new newjavamethod();
